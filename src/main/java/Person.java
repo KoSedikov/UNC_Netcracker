@@ -92,7 +92,7 @@ public class Person{
     }
 
     /**
-     * задает пол в значении boolean(true - мужчина,false - женщина) не сексизм
+     * задает пол в значении boolean(true - мужчина,false - женщина)
      */
     public void setGender(boolean gender) {
         this.gender = gender;
